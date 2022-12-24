@@ -2,6 +2,7 @@
 - 🧑🏽‍💻 1 year experince in designing and developing Web applications using **REACT** AND  **TAILWIND**
 - 🔭 I’m currently working on **headway** which is a habit tracking app
 - ⚡ Fun fact: my age is 19 and dropped out of college last year 😵🙂
+- 🛤️ I'm sharing my journey on twitter you can join me as i tweet about building headway and learning's along the way
 
 <!--
 **Saurabhdaswant/SaurabhDaswant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
