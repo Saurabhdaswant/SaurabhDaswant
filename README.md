@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-- 🧑🏽‍💻 1 year experince in designing and developing Web applications using **REACT TAILWIND **
+- 🧑🏽‍💻 1 year experince in designing and developing Web applications using **REACT TAILWIND**
 - 🔭 I’m currently working on **headway** which is a habit tracking app
 - ⚡ Fun fact: my age is 19 and dropped out of college last year 😵🙂
 
