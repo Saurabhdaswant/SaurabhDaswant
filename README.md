@@ -1,14 +1,14 @@
 ### Hi everyone 👋
-- I am a developer who also loves to design web app and websites
+- 🧑🏽‍💻 1 year experince in designing and developing Web applications using **REACT TAILWIND **
 - 🔭 I’m currently working on **headway** which is a habit tracking app
-
+- ⚡ Fun fact: my age is 19 and dropped out of college last year 😵🙂
 
 <!--
 **Saurabhdaswant/SaurabhDaswant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
+Cancel changes
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
