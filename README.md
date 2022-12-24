@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-
+- I am a developer who also loves to design web app and websites
 - 🔭 I’m currently working on **headway** which is a habit tracking app
 
 
