@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 - 🧑🏽‍💻 1 year experince in designing and developing Web applications using **REACT** AND  **TAILWIND**
 - 🔭 I’m currently working on **headway** which is a habit tracking app
-- ⚡ Fun fact: my age is 19 and dropped out of college last year 😵🙂
+
 
 ![twitterHeader](https://user-images.githubusercontent.com/77434364/209432777-66f0a2bc-c4c4-4d79-92de-aedb1d3f99c3.png)
 
