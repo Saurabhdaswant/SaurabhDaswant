@@ -52,8 +52,8 @@ I enjoy living in the overlap of **design × engineering**.
 
 ## Find me around the internet
 
-- Twitter / X: [https://twitter.com/yourhandle  ](https://x.com/saurabhdaswant)
-- Portfolio: [https://yourwebsite.com  ](https://saurabhdaswant.com/)
+- Twitter / X: https://x.com/saurabhdaswant
+- Portfolio: https://saurabhdaswant.com/
 
 If you care about quality, craft, or building meaningful things —  
 we’ll probably get along.
