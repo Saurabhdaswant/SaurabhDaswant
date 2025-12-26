@@ -1,59 +1,49 @@
-# Hey, I’m Saurabh 👋
+Hey, I’m Saurabh.
 
-I design and build things for the web —  
-interfaces that feel calm, thoughtful, and a little delightful.
+I build things on the web.
+Mostly frontend. Sometimes design. Often both at the same time.
 
-Most days you’ll find me:
-- polishing tiny UI details no one asked for  
-- turning messy ideas into clean, usable screens  
-- obsessing over spacing, motion, and “does this feel right?”
-
-I care about **craft** more than hype  
-and **shipping** more than talking.
+I like clean interfaces, good spacing, and small details that make things feel calm instead of loud.
+I spend more time than I should tweaking UI, motion, and tiny interactions, but that’s kind of the point.
 
 ---
 
-## What I like building
+What I usually work on:
 
-✨ Products that feel simple on the surface  
-🧠 Interfaces that reduce thinking for users  
-🎛️ Systems that scale without becoming ugly  
-🧩 Proof-of-work projects that speak for themselves  
-
----
-
-## My toolbox
-
-- **Frontend:** React, Next.js, TypeScript, Tailwind  
-- **Motion & UI:** Framer Motion, shadcn/ui, custom components  
-- **Design:** Figma, interaction design, visual systems  
-- **Other:** Git, async collaboration, clean workflows  
-
-I enjoy living in the overlap of **design × engineering**.
+- React / Next.js apps
+- Turning messy product ideas into usable screens
+- Building side projects as proof of work
+- Making things feel simple even when the logic isn’t
 
 ---
 
-## Currently
+Stuff I use a lot:
 
-- Building personal products in public  
-- Refining interaction and motion systems  
-- Chasing that “this feels really good to use” moment  
-
----
-
-## Outside code
-
-📚 Reading  
-🏋️ Working out  
-🎨 Occasionally painting  
-☕ Long coffee-fueled thinking sessions  
+- React, Next.js, TypeScript
+- Tailwind, Framer Motion
+- Figma
+- Git and a lot of trial and error
 
 ---
 
-## Find me around the internet
+Right now:
+
+- Building personal products
+- Getting better at interaction and motion
+- Shipping more instead of overthinking
+
+---
+
+Outside of code:
+
+- Working out
+- Reading
+- Painting once in a while
+- Sitting with coffee and thinking way too much
+
+---
+
+You can find me here:
 
 - Twitter / X: https://x.com/saurabhdaswant
 - Portfolio: https://saurabhdaswant.com/
-
-If you care about quality, craft, or building meaningful things —  
-we’ll probably get along.
