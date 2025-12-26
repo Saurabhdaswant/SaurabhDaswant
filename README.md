@@ -1,16 +1,60 @@
-<h1 align="center">Hi 👋, I'm Saurabh</h1> <h3 align="center">A passionate Frontend Developer and UI/UX Designer from Pimpri, India</h3>
+# Hey, I’m Saurabh 👋
 
-🌱 I’m currently working on portfolio website
+I design and build things for the web —  
+interfaces that feel calm, thoughtful, and a little delightful.
 
-🌱 I’m currently learning Next.js, UI animations, micro-interactions
+Most days you’ll find me:
+- polishing tiny UI details no one asked for  
+- turning messy ideas into clean, usable screens  
+- obsessing over spacing, motion, and “does this feel right?”
 
-🤝 I’m looking for help with UX research and usability testing
+I care about **craft** more than hype  
+and **shipping** more than talking.
 
-👯 I’m looking to collaborate on open source front‑end projects
+---
 
-💬 Ask me about JavaScript, Frontend Development, UI/UX Design
+## What I like building
 
-📫 How to reach me saurabh@example.com
+✨ Products that feel simple on the surface  
+🧠 Interfaces that reduce thinking for users  
+🎛️ Systems that scale without becoming ugly  
+🧩 Proof-of-work projects that speak for themselves  
 
-Languages and Tools:
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## My toolbox
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind  
+- **Motion & UI:** Framer Motion, shadcn/ui, custom components  
+- **Design:** Figma, interaction design, visual systems  
+- **Other:** Git, async collaboration, clean workflows  
+
+I enjoy living in the overlap of **design × engineering**.
+
+---
+
+## Currently
+
+- Building personal products in public  
+- Refining interaction and motion systems  
+- Chasing that “this feels really good to use” moment  
+
+---
+
+## Outside code
+
+📚 Reading  
+🏋️ Working out  
+🎨 Occasionally painting  
+☕ Long coffee-fueled thinking sessions  
+
+---
+
+## Find me around the internet
+
+- GitHub: https://github.com/yourusername  
+- Twitter / X: https://twitter.com/yourhandle  
+- Portfolio: https://yourwebsite.com  
+
+If you care about quality, craft, or building meaningful things —  
+we’ll probably get along.
